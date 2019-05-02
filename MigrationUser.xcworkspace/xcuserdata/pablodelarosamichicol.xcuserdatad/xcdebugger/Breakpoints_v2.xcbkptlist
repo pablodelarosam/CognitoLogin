@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MigrationUser/ViewController.swift"
+            timestampString = "578474093.293215"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "signIn()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MigrationUser/ViewController.swift"
+            timestampString = "578474093.293313"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "signIn()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AWSMobileClient.SignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MigrationUser.ViewController.signIn() -&gt; ()"
+                  moduleName = "MigrationUser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Desktop/MigrationUser/MigrationUser/ViewController.swift"
+                  timestampString = "578473143.177978"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1012">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AWSMobileClient.SignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MigrationUser.ViewController.signIn() -&gt; ()"
+                  moduleName = "MigrationUser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablodelarosamichicol/Desktop/MigrationUser/MigrationUser/ViewController.swift"
+                  timestampString = "578473143.180403"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1065">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
